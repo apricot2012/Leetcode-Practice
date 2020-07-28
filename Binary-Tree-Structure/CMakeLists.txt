@@ -3,4 +3,4 @@ project(Binary_Tree_Structure)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Binary_Tree_Structure main.cpp Max-depth-bin-tree.h)
+add_executable(Binary_Tree_Structure main.cpp Max-depth-bin-tree.h Balanced-bin-tree.h Max-path.h Lowest-common-ancestor.h)

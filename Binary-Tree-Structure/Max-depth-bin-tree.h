@@ -1,5 +1,5 @@
 //
-// Solution to 104 depth of binary tree
+// Leetcode #114
 //
 
 #ifndef BINARY_TREE_STRUCTURE_MAX_DEPTH_BIN_TREE_H
