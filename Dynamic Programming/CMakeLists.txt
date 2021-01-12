@@ -3,4 +3,4 @@ project(Dynamic_Programming)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Dynamic_Programming main.cpp target-sum.h longest-valid-parentheses.h)
+add_executable(Dynamic_Programming main.cpp target-sum.h longest-valid-parentheses.h unique-paths.h unique-paths-II.h)
